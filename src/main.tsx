@@ -19,7 +19,7 @@ const theme = createTheme({
 createRoot(document.getElementById('root')!).render(
 	<StrictMode>
 		<ThemeProvider theme={theme}>
-			<CssBaseline /> {/* Нормализация CSS и базовые стили */}
+			<CssBaseline />
 			<App />
 		</ThemeProvider>
 	</StrictMode>
