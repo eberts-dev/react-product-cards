@@ -24,7 +24,7 @@
 
 ## Технологии
 
-- **React 18**
-- **TypeScript**
-- **Material-UI (v5)**
-- **Vite**
+- React 18
+- TypeScript
+- Material-UI (v5)
+- Vitе
