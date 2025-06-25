@@ -27,4 +27,4 @@
 - **React 18**
 - **TypeScript**
 - **Material-UI (v5)**
-- **Vite** (сборка)
+- **Vite**
